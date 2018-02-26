@@ -1,0 +1,1 @@
+When searching on how to fork a repository in github, the suggestion was made that you should include a licence file (this file), to inform others of the source of the information and how they should use it.
